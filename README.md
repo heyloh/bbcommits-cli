@@ -11,6 +11,10 @@ cd bb-commits-cli
 ```
 
 ```sh
+npm i
+```
+
+```sh
 sudo npm i -g .
 ```
 
