@@ -24,6 +24,18 @@ sudo npm i -g .
 bbcommit -m "Sua mensagem de commit"
 ```
 
+## How to Remove
+
+```
+# Linux
+sudo rm -rf /usr/lib/node_modules/bb-commits-cli
+```
+
+```
+# Windows
+cd ~/AppData/Roaming/npm
+rm -rf bbcommit bbcommit.cmd bbcommit.ps1 node_modules/bb-commits-cli
+```
 ---
 
 Made with ❤ by Lohana Torres
