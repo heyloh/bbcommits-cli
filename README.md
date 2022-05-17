@@ -5,12 +5,12 @@
 Clone de repository
 
 ```sh
-git clone https://github.com/heyloh/bb-commits-cli.git
+git clone https://github.com/heyloh/bbcommits-cli.git
 ```
 
 Go to the folder
 ```sh
-cd bb-commits-cli
+cd bbcommits-cli
 ```
 
 Install the dependencies
