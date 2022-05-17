@@ -2,18 +2,23 @@
 
 ## How to Get
 
+Clone de repository
+
 ```sh
 git clone https://github.com/heyloh/bb-commits-cli.git
 ```
 
+Go to the folder
 ```sh
 cd bb-commits-cli
 ```
 
+Install the dependencies
 ```sh
 npm i
 ```
 
+Install de CLI on your machine
 ```sh
 sudo npm i -g .
 ```
@@ -26,16 +31,21 @@ bbcommit -m "Sua mensagem de commit"
 
 ## How to Remove
 
-```
-# Linux
+### Linux
+```sh
+
 sudo rm -rf /usr/lib/node_modules/bb-commits-cli
 ```
 
-```
-# Windows
+### Windows
+```sh
 cd ~/AppData/Roaming/npm
+```
+
+```sh
 rm -rf bbcommit bbcommit.cmd bbcommit.ps1 node_modules/bb-commits-cli
 ```
+
 ---
 
 Made with ❤ by Lohana Torres
