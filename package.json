@@ -2,9 +2,9 @@
   "name": "bb-commits-cli",
   "version": "1.0.0",
   "description": "CLI for branch-based commit messages.",
-  "main": "./cli.js",
+  "main": "./lib/cli.js",
   "bin": {
-    "bbcommit": "./cli.js"
+    "bbcommit": "./lib/cli.js"
   },
   "keywords": [
     "cli"
